@@ -76,17 +76,20 @@ Code 6:
     AWS_SECRET_ACCESS_KEY
 2.Secret* : 
 	Download .CSV > Secret Access key
+
 3.Name* :
 
     AWS_REGION
 3.Secret* :
 	Enter >> us-east-1
+
 4.Name* :
 	
     AWS_ECR_LOGIN_URI
 4.Secret* :
 	Copied URI from ECR >> 315865595366.dkr.ecr.us-east-1.amazonaws.com/simple-app << paste Before ( / ) <br/>
 	To Paste >> 315865595366.dkr.ecr.us-east-1.amazonaws.com
+
 5.Name* :
 	
     ECR_REPOSITORY_NAME
@@ -94,4 +97,4 @@ Code 6:
 	Copied URI from ECR >> 315865595366.dkr.ecr.us-east-1.amazonaws.com/simple-app << paste Afte ( / ) <br/>
 	To Paste >> simple-app
 	
-# Once Code get Commit it CI-CD will Starts Running
+## Once Code get Commit it CI-CD will Starts Running
