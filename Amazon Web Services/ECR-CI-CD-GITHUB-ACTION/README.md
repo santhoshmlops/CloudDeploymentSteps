@@ -1,5 +1,10 @@
 <h1 align = "center "> AWS-CICD-Deployment-with-Github-Actions <h1/> 
 	
+# Require Files :
+- .github/workflows/main.yaml
+- .dockerignore
+- Dockerfile
+	
 # 1. Login to AWS console :
 
 - Root User  
