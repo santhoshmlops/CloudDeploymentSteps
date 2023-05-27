@@ -8,7 +8,7 @@
 # 1. GitHub :
 - Commit all the code inth Github Repository
 
-# 2. Azure : Container Registry :
+# 2. Azure ( Container Registry ) :
 - Create container registry > Resource group > Create new > Registry name > Review + Create 
 - Once Your deployment is complete > Go to resource > Settings > Access Keys > Admin User ( Enabled ) 
 - Copy the Login Server and Password keep it safe for the later use 
@@ -16,7 +16,7 @@
 - user name : testdockersan
 - Password : LbSc9KWS7/En8BRmMx2RBeAAewOIas1sXEFqWHqCEx+ACRDurPtv
 
-# 3. Azure : Web App :
+# 3. Azure ( Web App ) :
 - Create Web App > Resource group (same Resource group) > Instance Details ( Name ) > Publish ( Docker Container ) > Operating System ( Linux ) > Region > 
 - Next : Docker > Options ( Single Container ) > image Source ( Azure Container Registry ) > Registry > ( But there will be no image we have to build the docker image )
 
