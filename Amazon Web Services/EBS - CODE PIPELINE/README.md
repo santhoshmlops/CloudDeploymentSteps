@@ -10,3 +10,5 @@
 
 # 2. Elastic Beanstalk :
 - Elastic Beanstalk > Create application > Application name > Platform ( Python ) >
+
+
